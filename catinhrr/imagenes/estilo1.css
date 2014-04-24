@@ -1,0 +1,173 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #FFFFFF;
+}
+/* Global Styles */
+
+body {
+	margin:0px;
+	}
+	
+td {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color:#003366;
+	}
+	
+a {
+	color: #009900;
+	font-weight:bold;#99CCFF
+	}
+	
+a:hover {
+	color: #3366CC;
+	}
+	
+	
+
+/* ID Styles */
+
+#navigation td {
+	border-bottom: 2px solid #91FF91;
+	}
+	
+#navigation a {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #005D07;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	display:block;
+	padding:8px 6px 10px 26px;
+	background: url("punto_verde.png") 14px 45% no-repeat;
+	}
+		
+#navigation2 a {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #FFF500;
+	line-height:16px;
+	text-decoration: none;
+	display:block;
+	padding:8px 6px 10px 10px;
+	}
+	
+	
+#navigation a:hover {
+	background: #ffffff url("punto_verde.png") 14px 45% no-repeat;
+	color:#29367C;
+	}
+	
+#navigation2 a:hover {
+	background: #29367C;
+	color:#FFFFFF;
+	}
+	
+#logo 	{
+	font:24px Verdana, Arial, Helvetica, sans-serif;
+	color: #CCFF99;
+	letter-spacing:.2em;
+	line-height:30px;
+	}
+	
+#tagline 	{	
+	font:12px Verdana, Arial, Helvetica, sans-serif;
+	color: #FF9933;
+	letter-spacing:.4em;
+	line-height:18px;
+	}
+
+#monthformat {
+	border-bottom: 2px solid #E6F3FF;
+		}
+		
+#dateformat {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	letter-spacing:.2em;
+	}
+
+#dateformat a {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	font-weight:bold;
+	letter-spacing:.1em;
+	}
+
+#dateformat a:hover {
+	color: #FF6600;
+	letter-spacing:.1em;
+	}
+	
+/* Class Styles */
+	
+.TextoCuerpo {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color:#005D07;
+	line-height:20px;
+	margin-top:0px;
+	}
+	
+.pagTitulo{
+	font: 18px Verdana, Arial, Helvetica, sans-serif;
+	color: #006600;
+	line-height:24px;
+	letter-spacing:.2em;
+	}
+	
+.pageName2{
+	font: 18px Verdana, Arial, Helvetica, sans-serif;
+	color: #3366CC;
+	line-height:24px;
+	}
+	
+.subTitulo {
+	font:bold 10px Verdana, Arial, Helvetica, sans-serif;
+	color: #009900;
+	line-height:16px;
+	letter-spacing:.2em;
+	}
+
+.quote {
+	font: 20px Verdana, Arial, Helvetica, sans-serif;
+	color: #759DA1;
+	line-height:30px;
+	}
+	
+.TextoChiquito {
+	font: 10px Verdana, Arial, Helvetica, sans-serif;
+	color: #005D07;
+	}
+
+.navText {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	}
+
+.navText2 {
+	font: 10px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	}
+	
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFF500;
+}
+
+.TituloBlanco {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	line-height:20px;
+	margin-top:0px;
+	}
+	

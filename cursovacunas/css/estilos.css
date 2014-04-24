@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/*
+	Fecha: 07-09-2012*
+	Autor: Ing. Domingo Ilarreta
+	Correo: akimxtreme.dj@gmail.com
+*/
+/* CSS Document */
+@import url("reset.css");
+/* Inicio */
+
+body {
+	background:#CCCCCC;
+	font-family:'Arial';
+	color:#333333;
+	display: block;
+	margin: auto;
+	text-align:center;
+	width: 957px;
+	}
+div.contenedor{
+	width:100%;
+		
+	}
+iframe.cursovacunas {
+	float:left;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height:1600px;
+	border: none;
+	background: none;
+	}

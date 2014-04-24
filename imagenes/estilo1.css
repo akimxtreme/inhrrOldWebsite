@@ -1,0 +1,288 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #FFFFFF;
+}
+/* Global Styles */
+
+body {
+	margin:0px;
+	}
+	
+td {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color:#003366;
+	}
+
+	
+a {
+	color: #FF6600;
+	font-weight:bold;#99CCFF
+	}
+	
+	
+	
+a:hover {
+	color: #3366CC;
+	}
+	
+img.img {
+	margin: 0px 0px 0px 2px;}	
+img:hover.img {
+	border: #F00 dashed 1px;
+}
+
+/* ID Styles */
+
+#navigation td {
+	border-bottom: 2px solid #C0DFFD;
+	}
+	
+#navigation a {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	display:block;
+	padding:8px 6px 10px 26px;
+	background: url("mm_arrow.png") 14px 45% no-repeat;
+	}
+		
+#navigation2 a {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	line-height:16px;
+	/*letter-spacing:.1em;*/
+	text-decoration: none;
+	display:block;
+	padding:8px 6px 10px 10px;
+	/*padding:8px 6px 10px 26px;*/
+	/* background: url("mm_arrow.gif") 14px 45% no-repeat;*/
+	}
+	
+	
+#navigation a:hover {
+	background: #ffffff url("mm_arrow.png") 14px 45% no-repeat;
+	color:#FF6600;
+	}
+	
+#navigation2 a:hover {
+	/* background: #ffffff url("mm_arrow.gif") 14px 45% no-repeat; */
+	background: #FFFFFF;
+	color:#FF6600;
+	}
+	
+#logo 	{
+	font:24px Verdana, Arial, Helvetica, sans-serif;
+	color: #CCFF99;
+	letter-spacing:.2em;
+	line-height:30px;
+	}
+	
+#tagline 	{	
+	font:12px Verdana, Arial, Helvetica, sans-serif;
+	color: #FF9933;
+	letter-spacing:.4em;
+	line-height:18px;
+	}
+
+#monthformat {
+	border-bottom: 2px solid #E6F3FF;
+		}
+		
+#dateformat {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	letter-spacing:.2em;
+	}
+
+#dateformat a {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	font-weight:bold;
+	letter-spacing:.1em;
+	}
+
+#dateformat a:hover {
+	color: #FF6600;
+	letter-spacing:.1em;
+	}
+	
+/* Class Styles */
+	
+.bodyText {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color:#003366;
+	line-height:20px;
+	margin-top:0px;
+	}
+	
+.pageName{
+	font: 18px Verdana, Arial, Helvetica, sans-serif;
+	color: #3366CC;
+	line-height:24px;
+	letter-spacing:.2em;
+	}
+	
+.pageName2{
+	font: 18px Verdana, Arial, Helvetica, sans-serif;
+	color: #3366CC;
+	line-height:24px;
+	/*letter-spacing:.2em;*/
+	}
+	
+.subHeader {
+	font:bold 10px Verdana, Arial, Helvetica, sans-serif;
+	color: #3366CC;
+	line-height:16px;
+	letter-spacing:.2em;
+	}
+
+.quote {
+	font: 20px Verdana, Arial, Helvetica, sans-serif;
+	color: #759DA1;
+	line-height:30px;
+	}
+	
+.smallText {
+	font: 10px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	}
+
+.navText {
+	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	}
+
+.navText2 {
+	font: 10px Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	line-height:16px;
+	letter-spacing:.1em;
+	text-decoration: none;
+	}
+	
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+.TituloBlanco {
+	font:11px Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	line-height:20px;
+	margin-top:0px;
+	}
+	
+/* Estilos del espacio dedicado al Control de Derivados del Tabaco de la Gerencia de Registrol y Control - Farmacotoxicologia*/
+
+div#control_tabaco {
+	float:left;
+	width:769px;
+	height: auto;
+	background:#E6F3FF;
+	
+}
+
+div#menu_tabaco {
+	background:#0A5491;
+	width:769px;
+	height: 50px;
+	float:left;
+	
+	
+}
+
+span.menu_opcion {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	border-left:solid 2px #FFF;
+	border-right: solid 2px #FFF;
+	margin: 0px 0px 20px 0px;
+	padding: 0px 10px 0px 10px;
+	font-weight: bold;
+}
+
+div#contenido_tabaco {
+	float:left;
+	width:750px;
+	height: auto;
+	background:#E6F3FF;
+	padding: 20px 10px 30px 10px;
+	text-align: justify;
+	
+}
+
+
+
+a.menu_tabaco_1 {
+	color: #fff;
+	
+	text-decoration: none;
+}
+	
+	
+	
+a:hover.menu_tabaco_1 {
+	color:#FF6600;
+	text-decoration:underline;
+	
+	}
+
+div.text {
+	float:left;
+	border: #666 solid 1px;
+	width: 560px;
+	border-radius: 5px;
+	background:#fff;
+	margin: 5px 0px 5px 0px;
+	padding: 2px 5px 3px 5px;
+	
+	
+	}
+	
+img.img_rc {
+	border: #666 solid 1px;
+	border-radius: 5px;
+	margin: 5px 0px 0px 5px;
+	
+	
+	}
+	
+	/**********************************/
+	/*             ALERTAS            */
+	
+	iframe.alertas {
+		float:left;
+		width: 550px;
+		height: 910px;
+		border: none;
+		margin: 0px;
+		}
+	
+	/***********************************/
+	img.derecha {
+		float:left;
+		border: #CCC solid 1px;
+		border-radius: 4px;
+		padding: 2px;
+		}
+	p.derecha {
+		float:left;
+		width: 70%;
+		margin: 2px 5px 2px 5px;
+		text-align:justify;
+		}
+	div#text {
+		background:#FFC;
+		}
